@@ -5,4 +5,4 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on <a href="https://araamc.xyz">Araa Network Server</a>
-- 🌱 I’m currently learning GoLang and PHP
+- 🌱 I’m currently learning PHP and Java
